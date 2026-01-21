@@ -1,2 +1,1 @@
-# nd-harmreduction-map
-Interactive county-level map visualizing spatial gaps between naloxone access and pharmacy infrastructure, built with Folium and published via GitHub Pages.
+This repository hosts an interactive, web-based dashboard that visualizes county-level disparities in naloxone access relative to pharmacy availability. The map uses geospatial distance metrics derived from Google Places API and Census population-weighted centroids, enabling public health practitioners and researchers to identify structural gaps in harm-reduction infrastructure. The dashboard is deployed as a static site using GitHub Pages for easy sharing and citation.
