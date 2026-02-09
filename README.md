@@ -46,6 +46,7 @@ The project utilized a multi-stage pipeline to ensure the "Source of Truth" rema
 ### **Deployment & Sharing**
 
 The interactive decision support system is fully automated and deployed as a static site.
+
 **View the Live Map here:** [https://aidea1.github.io/nd-harmreduction-map/](https://aidea1.github.io/nd-harmreduction-map/)
 
 *Developed by [Akshaya Bhagavathula](https://www.ndsu.edu/people/akshaya-bhagavathula/) PhD, FACE, Associate Professor of Epidemiology, North Dakota State University, Fargo, ND*
