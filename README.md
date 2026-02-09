@@ -52,3 +52,5 @@ The interactive decision support system is fully automated and deployed as a sta
 *Developed by [Akshaya Bhagavathula](https://www.ndsu.edu/people/akshaya-bhagavathula/) PhD, FACE, Associate Professor of Epidemiology, North Dakota State University, Fargo, ND*
 
 **Email: akshaya.bhagavathula@ndsu.edu**
+
+Suggested citation: Bhagavathula A. North Dakota Naloxone Access & Harm Reduction Gap Analysis (2026). Interactive decision support system. https://aidea1.github.io/nd-harmreduction-map/
